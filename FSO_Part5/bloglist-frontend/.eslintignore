@@ -1,0 +1,4 @@
+node_modues
+dist
+.eslintrc.cjs
+vite.config.js
